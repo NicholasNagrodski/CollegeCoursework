@@ -1,0 +1,185 @@
+
+
+
+
+ NUMBER =      2    SIGMA =      1    Classification = Near-Perfect and Deficient
+ NUMBER =      3    SIGMA =      1    Classification = Deficient                 
+ NUMBER =      4    SIGMA =      3    Classification = Near-Perfect and Deficient
+ NUMBER =      5    SIGMA =      1    Classification = Deficient                 
+ NUMBER =      6    SIGMA =      6    Classification = Perfect                   
+ NUMBER =      7    SIGMA =      1    Classification = Deficient                 
+ NUMBER =      8    SIGMA =      7    Classification = Near-Perfect and Deficient
+ NUMBER =      9    SIGMA =      4    Classification = Deficient                 
+ NUMBER =     10    SIGMA =      8    Classification = Deficient                 
+
+ Number of Deficient numbers    :      8
+ Number of Abundant numbers     :      0
+ Number of Perfect numbers      :      1
+ Number of Near-Perfect numbers :      3
+
+
+
+
+ NUMBER =     20    SIGMA =     22    Classification = Abumdant                  
+ NUMBER =     21    SIGMA =     11    Classification = Deficient                 
+ NUMBER =     22    SIGMA =     14    Classification = Deficient                 
+ NUMBER =     23    SIGMA =      1    Classification = Deficient                 
+ NUMBER =     24    SIGMA =     36    Classification = Abumdant                  
+ NUMBER =     25    SIGMA =      6    Classification = Deficient                 
+ NUMBER =     26    SIGMA =     16    Classification = Deficient                 
+ NUMBER =     27    SIGMA =     13    Classification = Deficient                 
+ NUMBER =     28    SIGMA =     28    Classification = Perfect                   
+ NUMBER =     29    SIGMA =      1    Classification = Deficient                 
+ NUMBER =     30    SIGMA =     42    Classification = Abumdant                  
+ NUMBER =     31    SIGMA =      1    Classification = Deficient                 
+ NUMBER =     32    SIGMA =     31    Classification = Near-Perfect and Deficient
+
+ Number of Deficient numbers    :      9
+ Number of Abundant numbers     :      3
+ Number of Perfect numbers      :      1
+ Number of Near-Perfect numbers :      1
+
+
+
+
+ NUMBER =    111    SIGMA =     41    Classification = Deficient                 
+
+ Number of Deficient numbers    :      1
+ Number of Abundant numbers     :      0
+ Number of Perfect numbers      :      0
+ Number of Near-Perfect numbers :      0
+
+
+
+
+ NUMBER =    120    SIGMA =    240    Classification = Abumdant                  
+ NUMBER =    121    SIGMA =     12    Classification = Deficient                 
+ NUMBER =    122    SIGMA =     64    Classification = Deficient                 
+ NUMBER =    123    SIGMA =     45    Classification = Deficient                 
+ NUMBER =    124    SIGMA =    100    Classification = Deficient                 
+ NUMBER =    125    SIGMA =     31    Classification = Deficient                 
+ NUMBER =    126    SIGMA =    186    Classification = Abumdant                  
+ NUMBER =    127    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    128    SIGMA =    127    Classification = Near-Perfect and Deficient
+ NUMBER =    129    SIGMA =     47    Classification = Deficient                 
+ NUMBER =    130    SIGMA =    122    Classification = Deficient                 
+ NUMBER =    131    SIGMA =      1    Classification = Deficient                 
+
+ Number of Deficient numbers    :     10
+ Number of Abundant numbers     :      2
+ Number of Perfect numbers      :      0
+ Number of Near-Perfect numbers :      1
+
+
+
+
+ NUMBER =    218    SIGMA =    112    Classification = Deficient                 
+ NUMBER =    219    SIGMA =     77    Classification = Deficient                 
+ NUMBER =    220    SIGMA =    284    Classification = Abumdant                  
+ NUMBER =    221    SIGMA =     31    Classification = Deficient                 
+ NUMBER =    222    SIGMA =    234    Classification = Abumdant                  
+
+ Number of Deficient numbers    :      3
+ Number of Abundant numbers     :      2
+ Number of Perfect numbers      :      0
+ Number of Near-Perfect numbers :      0
+
+
+
+
+ NUMBER =    281    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    282    SIGMA =    294    Classification = Abumdant                  
+ NUMBER =    283    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    284    SIGMA =    220    Classification = Deficient                 
+ NUMBER =    285    SIGMA =    195    Classification = Deficient                 
+ NUMBER =    286    SIGMA =    218    Classification = Deficient                 
+ NUMBER =    287    SIGMA =     49    Classification = Deficient                 
+
+ Number of Deficient numbers    :      6
+ Number of Abundant numbers     :      1
+ Number of Perfect numbers      :      0
+ Number of Near-Perfect numbers :      0
+
+
+
+
+ NUMBER =    348    SIGMA =    492    Classification = Abumdant                  
+ NUMBER =    349    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    350    SIGMA =    394    Classification = Abumdant                  
+ NUMBER =    351    SIGMA =    209    Classification = Deficient                 
+ NUMBER =    352    SIGMA =    404    Classification = Abumdant                  
+ NUMBER =    353    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    354    SIGMA =    366    Classification = Abumdant                  
+ NUMBER =    355    SIGMA =     77    Classification = Deficient                 
+ NUMBER =    356    SIGMA =    274    Classification = Deficient                 
+ NUMBER =    357    SIGMA =    219    Classification = Deficient                 
+ NUMBER =    358    SIGMA =    182    Classification = Deficient                 
+ NUMBER =    359    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    360    SIGMA =    810    Classification = Abumdant                  
+ NUMBER =    361    SIGMA =     20    Classification = Deficient                 
+ NUMBER =    362    SIGMA =    184    Classification = Deficient                 
+
+ Number of Deficient numbers    :     10
+ Number of Abundant numbers     :      5
+ Number of Perfect numbers      :      0
+ Number of Near-Perfect numbers :      0
+
+
+
+
+ NUMBER =    490    SIGMA =    536    Classification = Abumdant                  
+ NUMBER =    491    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    492    SIGMA =    684    Classification = Abumdant                  
+ NUMBER =    493    SIGMA =     47    Classification = Deficient                 
+ NUMBER =    494    SIGMA =    346    Classification = Deficient                 
+ NUMBER =    495    SIGMA =    441    Classification = Deficient                 
+ NUMBER =    496    SIGMA =    496    Classification = Perfect                   
+ NUMBER =    497    SIGMA =     79    Classification = Deficient                 
+ NUMBER =    498    SIGMA =    510    Classification = Abumdant                  
+ NUMBER =    499    SIGMA =      1    Classification = Deficient                 
+ NUMBER =    500    SIGMA =    592    Classification = Abumdant                  
+
+ Number of Deficient numbers    :      6
+ Number of Abundant numbers     :      4
+ Number of Perfect numbers      :      1
+ Number of Near-Perfect numbers :      0
+
+
+
+
+ NUMBER =   8110    SIGMA =   6506    Classification = Deficient                 
+ NUMBER =   8111    SIGMA =      1    Classification = Deficient                 
+ NUMBER =   8112    SIGMA =  14580    Classification = Abumdant                  
+ NUMBER =   8113    SIGMA =   1807    Classification = Deficient                 
+ NUMBER =   8114    SIGMA =   4060    Classification = Deficient                 
+ NUMBER =   8115    SIGMA =   4893    Classification = Deficient                 
+ NUMBER =   8116    SIGMA =   6094    Classification = Deficient                 
+ NUMBER =   8117    SIGMA =      1    Classification = Deficient                 
+ NUMBER =   8118    SIGMA =  11538    Classification = Abumdant                  
+ NUMBER =   8119    SIGMA =    377    Classification = Deficient                 
+ NUMBER =   8120    SIGMA =  13480    Classification = Abumdant                  
+ NUMBER =   8121    SIGMA =   2711    Classification = Deficient                 
+ NUMBER =   8122    SIGMA =   4550    Classification = Deficient                 
+ NUMBER =   8123    SIGMA =      1    Classification = Deficient                 
+ NUMBER =   8124    SIGMA =  10860    Classification = Abumdant                  
+ NUMBER =   8125    SIGMA =   2809    Classification = Deficient                 
+ NUMBER =   8126    SIGMA =   4834    Classification = Deficient                 
+ NUMBER =   8127    SIGMA =   5953    Classification = Deficient                 
+ NUMBER =   8128    SIGMA =   8128    Classification = Perfect                   
+ NUMBER =   8129    SIGMA =    751    Classification = Deficient                 
+ NUMBER =   8130    SIGMA =  11454    Classification = Abumdant                  
+ NUMBER =   8131    SIGMA =    221    Classification = Deficient                 
+ NUMBER =   8132    SIGMA =   6988    Classification = Deficient                 
+ NUMBER =   8133    SIGMA =   2715    Classification = Deficient                 
+ NUMBER =   8134    SIGMA =   6230    Classification = Deficient                 
+ NUMBER =   8135    SIGMA =   1633    Classification = Deficient                 
+ NUMBER =   8136    SIGMA =  14094    Classification = Abumdant                  
+ NUMBER =   8137    SIGMA =    183    Classification = Deficient                 
+ NUMBER =   8138    SIGMA =   5050    Classification = Deficient                 
+ NUMBER =   8139    SIGMA =   2717    Classification = Deficient                 
+ NUMBER =   8140    SIGMA =  11012    Classification = Abumdant                  
+
+ Number of Deficient numbers    :     23
+ Number of Abundant numbers     :      7
+ Number of Perfect numbers      :      1
+ Number of Near-Perfect numbers :      0

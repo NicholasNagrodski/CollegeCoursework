@@ -1,0 +1,359 @@
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   1
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)   1     SNEEZY, SLEEPY, DOPEY, DOC, HAPPY, BASHFUL AND GRUMPY       
+       (ciphered)         TOFFAZ, TMFFQZ, EPQFZ, EPD, IBQQZ, CBTIGVM BOE HSVNQZ       
+
+       (original)  25     WISDOM COMES FROM EXPERIENCE.                               
+       (ciphered)         VHRCNL BNLDR EQNL DWODQHDMBD.                               
+
+       (original)   5     EXPERIENCE COMES FROM A LACK OF WISDOM.                     
+       (ciphered)         JCUJWNJSHJ HTRJX KWTR F QFHP TK BNXITR.                     
+
+       (original)  13     HOPE MAKES A GOOD BREAKFAST BUT A POOR SUPPER.              
+       (ciphered)         UBCR ZNXRF N TBBQ OERNXSNFG OHG N CBBE FHCCRE.              
+
+       (original)  10     ORDER IS HEAVEN'S FIRST LAW.                                
+       (ciphered)         YBNOB SC ROKFOX'C PSBCD VKG.                                
+
+       (original)  18     ANYTHING THAT CAN GO WRONG, WILL.                           
+       (ciphered)         SFQLZAFY LZSL USF YG OJGFY, OADD.                           
+
+       (original)   8     ANYTHING THAT CANNOT GO WRONG, WILL FIND A WAY TO DO SO.    
+       (ciphered)         IVGBPQVO BPIB KIVVWB OW EZWVO, EQTT NQVL I EIG BW LW AW.    
+
+       (original)  19     WEIRD IS PART OF THE JOB.                                   
+       (ciphered)         PXBKW BL ITKM HY MAX CHU.                                   
+
+       (original)   6     THE PLURAL OF ANECDOTE IS NOT DATA.                         
+       (ciphered)         ZNK VRAXGR UL GTKIJUZK OY TUZ JGZG.                         
+
+       (original)  10     NEVER, NEVER, NEVER, NEVER, NEVER GIVE UP.                  
+       (ciphered)         XOFOB, XOFOB, XOFOB, XOFOB, XOFOB QSFO EZ.                  
+
+       (original)  23     WITH PRACTICE, WE CAN REPEAT OUR MISTAKES EXACTLY.          
+       (ciphered)         TFQE MOXZQFZB, TB ZXK OBMBXQ LRO JFPQXHBP BUXZQIV.          
+
+       (original)  11     GIVING UP IS THE SUREST WAY TO FAIL.                        
+       (ciphered)         RTGTYR FA TD ESP DFCPDE HLJ EZ QLTW.                        
+
+       (original)  24     WHEN IN DOUBT, MUMBLE.                                      
+       (ciphered)         UFCL GL BMSZR, KSKZJC.                                      
+
+       (original)   2     IMITATION IS THE SINCEREST FORM OF LAZINESS.                
+       (ciphered)         KOKVCVKQP KU VJG UKPEGTGUV HQTO QH NCBKPGUU.                
+
+       (original)  13     FORTRAN IS A FUN LANGUAGE, AND SO SIMPLE!                   
+       (ciphered)         SBEGENA VF N SHA YNATHNTR, NAQ FB FVZCYR!                   
+
+       (original)   2     BAD SPELLERS OF THE WORLD, UNTIE!                           
+       (ciphered)         DCF URGNNGTU QH VJG YQTNF, WPVKG!                           
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   2
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)  25     I ALMOST FOOLED YOU THAT TIME, EH?                          
+       (ciphered)         H ZKLNRS ENNKDC XNT SGZS SHLD, DG?                          
+
+       (original)  17     THERE'S NO SUCH THING AS A LITTLE VENGEANCE.                
+       (ciphered)         KYVIV'J EF JLTY KYZEX RJ R CZKKCV MVEXVRETV.                
+
+       (original)   4     YOUR LUCK IS HOW YOU TREAT PEOPLE.                          
+       (ciphered)         CSYV PYGO MW LSA CSY XVIEX TISTPI.                          
+
+       (original)  14     IT'S ALL DARKEST BEFORE IT'S TOTALLY BLACK.                 
+       (ciphered)         WH'G OZZ ROFYSGH PSTCFS WH'G HCHOZZM PZOQY.                 
+
+       (original)   0     THIS LINE IS NOT TO BE CHANGED.                             
+       (ciphered)         THIS LINE IS NOT TO BE CHANGED.                             
+
+       (original)  12     "MAN, I HATE CONFORMISTS."  "YEAH, ME TOO."  "WE ALL DO."   
+       (ciphered)         "YMZ, U TMFQ OAZRADYUEFE."  "KQMT, YQ FAA."  "IQ MXX PA."   
+
+       (original)  25     THERE IS NO END TO THE MAKING OF BOOKS.                     
+       (ciphered)         SGDQD HR MN DMC SN SGD LZJHMF NE ANNJR.                     
+
+       (original)  10     MASTERY IS NINE TIMES PATIENCE.                             
+       (ciphered)         WKCDOBI SC XSXO DSWOC ZKDSOXMO.                             
+
+       (original)  18     DO WHAT I MEANT, NOT WHAT I SAID.                           
+       (ciphered)         VG OZSL A EWSFL, FGL OZSL A KSAV.                           
+
+       (original)  11     ANTIDISESTABLISHMENTARIANISM IS ONLY ONE WORD.              
+       (ciphered)         LYETOTDPDELMWTDSXPYELCTLYTDX TD ZYWJ ZYP HZCO.              
+
+       (original)   7     I'D RATHER BELIEVE IN STUPIDITY THAN MALICE.                
+       (ciphered)         P'K YHAOLY ILSPLCL PU ZABWPKPAF AOHU THSPJL.                
+
+       (original)  19     THE STUPID IS ALWAYS POSSIBLE.                              
+       (ciphered)         MAX LMNIBW BL TEPTRL IHLLBUEX.                              
+
+       (original)  20     CHARACTER IS HIGHER THAN INTELLECT.                         
+       (ciphered)         WBULUWNYL CM BCABYL NBUH CHNYFFYWN.                         
+
+       (original)  15     PRIDE IS A BLOSSOM OF ASHES.                                
+       (ciphered)         EGXST XH P QADHHDB DU PHWTH.                                
+
+       (original)  15     MONDAY'S CHILD IS FAIR OF FACE.                             
+       (ciphered)         BDCSPN'H RWXAS XH UPXG DU UPRT.                             
+
+       (original)   9     DO NOTHING.  AVOID CRITICISM.                               
+       (ciphered)         MX WXCQRWP.  JEXRM LARCRLRBV.                               
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   3
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)   7     DASHER AND DANCER AND PRANCER AND VIXEN                     
+       (ciphered)         KHZOLY HUK KHUJLY HUK WYHUJLY HUK CPELU                     
+
+       (original)  19     COMET AND CUPID AND DONDER AND BLITZEN (AND RUDOLPH?)       
+       (ciphered)         VHFXM TGW VNIBW TGW WHGWXK TGW UEBMSXG (TGW KNWHEIA?)       
+
+       (original)   8     DO AS YOUR MOTHER SAID, NOT AS SHE DID.                     
+       (ciphered)         LW IA GWCZ UWBPMZ AIQL, VWB IA APM LQL.                     
+
+       (original)  21     WEDNESDAY'S CHILD IS FULL OF WOE.                           
+       (ciphered)         RZYIZNYVT'N XCDGY DN APGG JA RJZ.                           
+
+       (original)   9     JUDGE MY VOW, SPHINX OF BLACK QUARTZ!                       
+       (ciphered)         SDMPN VH EXF, BYQRWG XO KUJLT ZDJACI!                       
+
+       (original)   5     PRUDENCE AND COURAGE MAKE GOOD TEAMMATES.                   
+       (ciphered)         UWZIJSHJ FSI HTZWFLJ RFPJ LTTI YJFRRFYJX.                   
+
+       (original)  11     THERE IS NO GOOD WAY TO IMPLEMENT A BAD IDEA.               
+       (ciphered)         ESPCP TD YZ RZZO HLJ EZ TXAWPXPYE L MLO TOPL.               
+
+       (original)   9     IT IS USUALLY BETTER TO DO ANYTHING THAN TO DO NOTHING.     
+       (ciphered)         RC RB DBDJUUH KNCCNA CX MX JWHCQRWP CQJW CX MX WXCQRWP.     
+
+       (original)   3     BEAUTY FADES, DUMB IS FOREVER.                              
+       (ciphered)         EHDXWB IDGHV, GXPE LV IRUHYHU.                              
+
+       (original)  12     TOO MUCH OF ANYTHING IS SIMPLY WONDERFUL.                   
+       (ciphered)         FAA YGOT AR MZKFTUZS UE EUYBXK IAZPQDRGX.                   
+
+       (original)   2     THIS IS A SHORT MESSAGE.                                    
+       (ciphered)         VJKU KU C UJQTV OGUUCIG.                                    
+
+       (original)   4     THIS IS SHORTER.                                            
+       (ciphered)         XLMW MW WLSVXIV.                                            
+
+       (original)  24     THIS SILLY MESSAGE IS LONGER THAN THE LAST TWO LINES, RIGHT?
+       (ciphered)         RFGQ QGJJW KCQQYEC GQ JMLECP RFYL RFC JYQR RUM JGLCQ, PGEFR?
+
+       (original)  13     AM I AMBIVALENT?  WELL, YES AND NO.                         
+       (ciphered)         NZ V NZOVINYRAG?  JRYY, LRF NAQ AB.                         
+
+       (original)   6     SATURDAY'S CHILD MUST WORK FOR A LIVING.                    
+       (ciphered)         YGZAXJGE'Y INORJ SAYZ CUXQ LUX G ROBOTM.                    
+
+       (original)  24     BLOSSOM WHERE YOU'RE PLANTED.                               
+       (ciphered)         ZJMQQMK UFCPC WMS'PC NJYLRCB.                               
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   4
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)   3     HISTORY IS A RACE WITHOUT A FINISH LINE.                    
+       (ciphered)         KLVWRUB LV D UDFH ZLWKRXW D ILQLVK OLQH.                    
+
+       (original)  23     APRIL SHOWERS BRING MAY FLOWERS.                            
+       (ciphered)         XMOFI PELTBOP YOFKD JXV CILTBOP.                            
+
+       (original)  11     DO NOT LOOK INTO LASER WITH REMAINING EYE.                  
+       (ciphered)         OZ YZE WZZV TYEZ WLDPC HTES CPXLTYTYR PJP.                  
+
+       (original)  16     ENGINEERS BUILD WEAPONS.  ARCHITECTS BUILD TARGETS.         
+       (ciphered)         UDWYDUUHI RKYBT MUQFEDI.  QHSXYJUSJI RKYBT JQHWUJI.         
+
+       (original)  22     ANGER IS HEAVY, BUT HOPE FLOATS.                            
+       (ciphered)         WJCAN EO DAWRU, XQP DKLA BHKWPO.                            
+
+       (original)   0     THIS IS THE LAST LINE.                                      
+       (ciphered)         THIS IS THE LAST LINE.                                      
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   5
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)  26     THIS IS THE FIRST LINE IN THE SECOND FILE.                  
+       (ciphered)         THIS IS THE FIRST LINE IN THE SECOND FILE.                  
+
+       (original)  13     "DHRFGVBA NHGUBEVGL!"  "ABG BA LBHE FNL-FB!"                
+       (ciphered)         "QUESTION AUTHORITY!"  "NOT ON YOUR SAY-SO!"                
+
+       (original)   2     "JGTC YLB JCR JGTC" AYL KCYL "JGTC YLB JCR QSDDCP."         
+       (ciphered)         "LIVE AND LET LIVE" CAN MEAN "LIVE AND LET SUFFER."         
+
+       (original)  17     HXD LJW'C LQNJC JW QXWNBC VJW FRCQXDC PXRWP CX LXDAC.       
+       (ciphered)         YOU CAN'T CHEAT AN HONEST MAN WITHOUT GOING TO COURT.       
+
+       (original)  21     YZJXIFD'X HMNQI NX KZQQ TK LWFHJ.                           
+       (ciphered)         TUESDAY'S CHILD IS FULL OF GRACE.                           
+
+       (original)   9     ZK'J YRIU KF GIFXIRD XFFU YVCG KYVJV URPJ.                  
+       (ciphered)         IT'S HARD TO PROGRAM GOOD HELP THESE DAYS.                  
+
+       (original)  25     DJOEFSFMMB NBSSJFE B QSJODF PG B HVZ.                       
+       (ciphered)         CINDERELLA MARRIED A PRINCE OF A GUY.                       
+
+       (original)   1     RHYD LZSSDQR MNS.                                           
+       (ciphered)         SIZE MATTERS NOT.                                           
+
+       (original)  12     PIM CB FIACF OBR GSZZ CB TOQH.                              
+       (ciphered)         BUY ON RUMOR AND SELL ON FACT.                              
+
+       (original)  16     S DBSON DY LO KX YEDCSNOB, LED S TECD NSNX'D PSD SX.        
+       (ciphered)         I TRIED TO BE AN OUTSIDER, BUT I JUST DIDN'T FIT IN.        
+
+       (original)   1     RBGQNCHMFDQ'R BZS GZC Z ONHMS NE UHDV, SNN.                 
+       (ciphered)         SCHRODINGER'S CAT HAD A POINT OF VIEW, TOO.                 
+
+       (original)  20     OZ ZGQKY G BORRGMK ZU GHGTJUT G INORJ.                      
+       (ciphered)         IT TAKES A VILLAGE TO ABANDON A CHILD.                      
+
+       (original)   8     QGM SJW JWEWETWJWV XGJ LZW JMDWK QGM TJWSC.                 
+       (ciphered)         YOU ARE REMEMBERED FOR THE RULES YOU BREAK.                 
+
+       (original)  24     C HTGG RTGUU KU PQVJKPI KH PQV TGRGVKVKXG.                  
+       (ciphered)         A FREE PRESS IS NOTHING IF NOT REPETITIVE.                  
+
+       (original)   5     RVN OCZ GDOOGZ HZMHVDY V BJJY YVIXZM?  WZAJMZ JM VAOZM?     
+       (ciphered)         WAS THE LITTLE MERMAID A GOOD DANCER?  BEFORE OR AFTER?     
+
+       (original)  26     THIS LINE IS NOT TO BE CHANGED.                             
+       (ciphered)         THIS LINE IS NOT TO BE CHANGED.                             
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   6
+
+
+                  Key     Message
+                  ---     ------------------------------------------------------------
+
+
+       (original)  11     IWJGHSPN'H RWXAS WPH UPG ID VD.                             
+       (ciphered)         THURSDAY'S CHILD HAS FAR TO GO.                             
+
+       (original)  24     OCA HNQYGTU DTKPI RKNITKOU.                                 
+       (ciphered)         MAY FLOWERS BRING PILGRIMS.                                 
+
+       (original)  15     ESPCP LCP YZ TYYZNPYE MJDELYOPCD TY SPWW.                   
+       (ciphered)         THERE ARE NO INNOCENT BYSTANDERS IN HELL.                   
+
+       (original)  19     OLPZLUILYN WYVIHISF ZSLWA OLYL.                             
+       (ciphered)         HEISENBERG PROBABLY SLEPT HERE.                             
+
+       (original)   7     TLLNFX GH HGX PBEE DXXI T LXVKXM.                           
+       (ciphered)         ASSUME NO ONE WILL KEEP A SECRET.                           
+
+       (original)  23     WKH SRZHU WR WDA LQYROYHV WKH SRZHU WR GHVWURB.             
+       (ciphered)         THE POWER TO TAX INVOLVES THE POWER TO DESTROY.             
+
+       (original)  10     DEJXYDW Y IQO JETQO MYBB JUQSX CU QDOJXYDW.                 
+       (ciphered)         NOTHING I SAY TODAY WILL TEACH ME ANYTHING.                 
+
+       (original)   4     EB SEODAO SANA DKNOAO, SDWP SKQHZ DKNOAO SEOD BKN?          
+       (ciphered)         IF WISHES WERE HORSES, WHAT WOULD HORSES WISH FOR?          
+
+       (original)  14     RDUPMK'E OTUXP UE XAHUZS MZP SUHUZS.                        
+       (ciphered)         FRIDAY'S CHILD IS LOVING AND GIVING.                        
+
+       (original)   5     OMPNORJMOCT, GJTVG, CZGKAPG, AMDZIYGT, XJPMOZJPN, FDIY      
+       (ciphered)         TRUSTWORTHY, LOYAL, HELPFUL, FRIENDLY, COURTEOUS, KIND      
+
+       (original)  20     UHKJOKTZ, INKKXLAR, ZNXOLZE, HXGBK, IRKGT GTJ XKBKXKTZ      
+       (ciphered)         OBEDIENT, CHEERFUL, THRIFTY, BRAVE, CLEAN AND REVERENT      
+
+       (original)  18     QV I EWZTL EQBPWCB ZWUIVKM, QB QA JMBBMZ BW JM LMIL.        
+       (ciphered)         IN A WORLD WITHOUT ROMANCE, IT IS BETTER TO BE DEAD.        
+
+       (original)   6     U DOMN WUOMY XIYM HIN GUEY QUL HIVFY.                       
+       (ciphered)         A JUST CAUSE DOES NOT MAKE WAR NOBLE.                       
+
+       (original)  22     "WSQIALIVI, WSQISRI GSRWMHIVW YW IBSXMG."  "GSSP."          
+       (ciphered)         "SOMEWHERE, SOMEONE CONSIDERS US EXOTIC."  "COOL."          
+
+       (original)   3     QEFP FP KLQ QEB IXPQ IFKB FK QEB PBZLKA CFIB.               
+       (ciphered)         THIS IS NOT THE LAST LINE IN THE SECOND FILE.               
+
+       (original)  26     THIS IS THE LAST LINE IN THE SECOND FILE.                   
+       (ciphered)         THIS IS THE LAST LINE IN THE SECOND FILE.                   
+
+
+
+
+
+  10/25/2011                     Caesar Cipher - By: Nicholas Nagrodski        Page:   7
+
+
+      Letter     Count     Relative Frequency
+      ------     -----     --------------------------------------------------------------------------------
+         A         209     ********************************************************
+         B          45     ************
+         C          72     *******************
+         D         116     *******************************
+         E         300     ********************************************************************************
+         F          60     ****************
+         G          56     ***************
+         H         121     ********************************
+         I         219     **********************************************************
+         J           4     *
+         K          18     *****
+         L         129     **********************************
+         M          66     ******************
+         N         182     *************************************************
+         O         211     ********************************************************
+         P          50     *************
+         Q           2     *
+         R         156     ******************************************
+         S         196     ****************************************************
+         T         223     ***********************************************************
+         U          72     *******************
+         V          29     ********
+         W          52     **************
+         X           7     **
+         Y          60     ****************
+         Z           5     *

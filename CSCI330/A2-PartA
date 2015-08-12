@@ -1,0 +1,73 @@
+Script started on Mon 17 Mar 2008 06:48:00 PM CDT
+]0;z140294@lx: ~z140294@lx:~$ pwd
+/home/lx/z140294
+]0;z140294@lx: ~z140294@lx:~$ mkdir udir
+]0;z140294@lx: ~z140294@lx:~$ xch[K[K[Kchmod o+rwx
+chmod: missing operand after `o+rwx'
+Try `chmod --help' for more information.
+]0;z140294@lx: ~z140294@lx:~$ chmod o+rwx+wx
+z140294@lx:~$ chmod o+r+w+x
+chmod: missing operand after `o+r+w+x'
+Try `chmod --help' for more information.
+]0;z140294@lx: ~z140294@lx:~$ chmod o+r+w+x[1Pw+x[1P+x[1Px[K o+[K[K[K[K[K[K[K[K[K[K[K[Kchmod o+rwx udir
+]0;z140294@lx: ~z140294@lx:~$ ls -l
+[00mtotal 108
+drwxr--r--  4 z140294 student  4096 2008-02-04 20:31 [01;34m330[00m
+-rw-r--r--  1 z140294 student     0 2008-03-17 18:48 [00mA2-PartA[00m
+drwxr-xr-x  2 z140294 student  4096 2007-09-06 19:34 [01;34mbin[00m
+drwx------ 12 z140294 student  4096 2007-12-01 17:32 [01;34mcsci241[00m
+-rw-------  1 z140294 student 83680 2007-12-10 02:28 [00mmbox[00m
+drwxr-xr-x  2 z140294 student  4096 2008-02-04 20:30 [01;34mtemp[00m
+drwxr-xrwx  2 z140294 student  4096 2008-03-17 18:48 [34;42mudir[00m
+[m]0;z140294@lx: ~z140294@lx:~$ ls -l[Kcd udir
+]0;z140294@lx: ~/udirz140294@lx:~/udir$ pwd
+/home/lx/z140294/udir
+]0;z140294@lx: ~/udirz140294@lx:~/udir$ echo ""L"i"n"e" "A" "o"f" "f"i"l"e"1" "f"i"l"e" "[1P"
+z140294@lx:~/udir$ echo "Line A of file1 file" > file1
+]0;z140294@lx: ~/udirz140294@lx:~/udir$ echo "Line A of file1 file" > file1
+z140294@lx:~/udir$ echo "Line A of file[1P[1@2
+z140294@lx:~/udir$ echo "Line A of file2 
+z140294@lx:~/udir$ echo "Line A of file2 f
+z140294@lx:~/udir$ echo "Line A of file2 fi
+z140294@lx:~/udir$ echo "Line A of file2 fil
+z140294@lx:~/udir$ echo "Line A of file2 file
+z140294@lx:~/udir$ echo "Line A of file2 file"
+z140294@lx:~/udir$ echo "Line A of file2 file" 
+z140294@lx:~/udir$ echo "Line A of file2 file" >
+z140294@lx:~/udir$ echo "Line A of file2 file" > 
+z140294@lx:~/udir$ echo "Line A of file2 file" > f
+z140294@lx:~/udir$ echo "Line A of file2 file" > fi
+z140294@lx:~/udir$ echo "Line A of file2 file" > fil
+z140294@lx:~/udir$ echo "Line A of file2 file" > file[K2
+]0;z140294@lx: ~/udirz140294@lx:~/udir$ ls -a[Kl
+[00mtotal 8
+-rw-r--r-- 1 z140294 student 21 2008-03-17 18:50 [00mfile1[00m
+-rw-r--r-- 1 z140294 student 21 2008-03-17 18:50 [00mfile2[00m
+[m]0;z140294@lx: ~/udirz140294@lx:~/udir$ cd ..
+]0;z140294@lx: ~z140294@lx:~$ chmod 666 udir
+]0;z140294@lx: ~z140294@lx:~$ exit
+
+A13: No, to go into a directory you need execute permission, which we 
+don't have.
+
+A14: Yes you can list the contents of udir. To list the contnents you 
+need read permission, which we have.
+
+A15: No you can't view file1 because you can't get into udir.
+
+A16: No you can't move file2 to a different directory, because you can't 
+get into udir.
+
+A17: No you can't rename file1 because we don't have permission to 
+access udir.
+
+A18: No you can't delete a file from the directory because you dont have 
+permission.
+
+A19: No you can't hard link to file2 because a hard link points to the 
+origional file's executable.  Since we can't get to file2 to execute it, 
+we can't make the link. 
+
+exit
+
+Script done on Mon 17 Mar 2008 06:50:54 PM CDT

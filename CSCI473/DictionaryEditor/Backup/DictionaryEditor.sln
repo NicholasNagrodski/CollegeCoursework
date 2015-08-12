@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryEditor", "DictionaryEditor.csproj", "{824BD464-2E4F-4D30-98AA-C525ADFE4717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker", "..\SpellChecker\SpellChecker.csproj", "{D277013C-865E-4CFF-9F7D-B58004C4277B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824BD464-2E4F-4D30-98AA-C525ADFE4717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824BD464-2E4F-4D30-98AA-C525ADFE4717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824BD464-2E4F-4D30-98AA-C525ADFE4717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824BD464-2E4F-4D30-98AA-C525ADFE4717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D277013C-865E-4CFF-9F7D-B58004C4277B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D277013C-865E-4CFF-9F7D-B58004C4277B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D277013C-865E-4CFF-9F7D-B58004C4277B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D277013C-865E-4CFF-9F7D-B58004C4277B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1040 @@
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  1
+
+                        Random array of numbers between [0.0 750.0].
+
+
+   748.17   425.12   724.44   560.95   275.54   360.48    55.32     4.02   260.31
+
+
+   256.68   163.46    99.87   675.39   290.07   334.11   496.45    12.08   488.14
+
+
+   484.81   242.24   641.77   300.97   155.16   726.40   448.80   504.74   342.66
+
+
+   247.51    75.29   566.59   454.27   539.29   673.00   493.67   113.04   459.24
+
+
+   734.00   749.36   192.60   413.15   494.29   415.50   733.32   676.44   493.44
+
+
+   546.64   301.84   696.47   110.88   505.90   577.21   254.49    86.86   460.78
+
+
+   615.46   710.32   548.35   373.20   281.10   316.13   414.68   748.44   742.80
+
+
+   559.73   715.32    69.96   550.52   563.82   710.14   529.63   610.36   418.95
+
+
+    46.28   360.29   448.27   103.15   440.55   389.98   664.41   227.86   502.24
+
+
+   498.71   377.76   196.18    57.42    75.94   411.95   281.69    11.36   594.69
+
+
+   465.66   580.20   715.19    85.68   238.85   447.61    36.11    85.65   161.97
+
+
+    75.43    55.01   185.15   332.54   156.28   425.25    18.23   315.22   298.39
+
+
+   732.44   519.45     3.71    97.44    35.08   629.83   508.87   436.46   550.14
+
+
+    87.03   630.22   626.25   559.90
+
+
+                       NO SWAPS OR COMPARISONS PERFORMED.
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  2
+
+                  Array sorted in ascending order using selection sort:
+
+
+     3.71     4.02    11.36    12.08    18.23    35.08    36.11    46.28    55.01
+
+
+    55.32    57.42    69.96    75.29    75.43    75.94    85.65    85.68    86.86
+
+
+    87.03    97.44    99.87   103.15   110.88   113.04   155.16   156.28   161.97
+
+
+   163.46   185.15   192.60   196.18   227.86   238.85   242.24   247.51   254.49
+
+
+   256.68   260.31   275.54   281.10   281.69   290.07   298.39   300.97   301.84
+
+
+   315.22   316.13   332.54   334.11   342.66   360.29   360.48   373.20   377.76
+
+
+   389.98   411.95   413.15   414.68   415.50   418.95   425.12   425.25   436.46
+
+
+   440.55   447.61   448.27   448.80   454.27   459.24   460.78   465.66   484.81
+
+
+   488.14   493.44   493.67   494.29   496.45   498.71   502.24   504.74   505.90
+
+
+   508.87   519.45   529.63   539.29   546.64   548.35   550.14   550.52   559.73
+
+
+   559.90   560.95   563.82   566.59   577.21   580.20   594.69   610.36   615.46
+
+
+   626.25   629.83   630.22   641.77   664.41   673.00   675.39   676.44   696.47
+
+
+   710.14   710.32   715.19   715.32   724.44   726.40   732.44   733.32   734.00
+
+
+   742.80   748.17   748.44   749.36
+
+
+                       Number of comparisons performed:     7381
+
+
+
+                       Number of swaps performed:            118
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  3
+
+                     Array sorted in ascending order using bubble sort:
+
+
+     3.71     4.02    11.36    12.08    18.23    35.08    36.11    46.28    55.01
+
+
+    55.32    57.42    69.96    75.29    75.43    75.94    85.65    85.68    86.86
+
+
+    87.03    97.44    99.87   103.15   110.88   113.04   155.16   156.28   161.97
+
+
+   163.46   185.15   192.60   196.18   227.86   238.85   242.24   247.51   254.49
+
+
+   256.68   260.31   275.54   281.10   281.69   290.07   298.39   300.97   301.84
+
+
+   315.22   316.13   332.54   334.11   342.66   360.29   360.48   373.20   377.76
+
+
+   389.98   411.95   413.15   414.68   415.50   418.95   425.12   425.25   436.46
+
+
+   440.55   447.61   448.27   448.80   454.27   459.24   460.78   465.66   484.81
+
+
+   488.14   493.44   493.67   494.29   496.45   498.71   502.24   504.74   505.90
+
+
+   508.87   519.45   529.63   539.29   546.64   548.35   550.14   550.52   559.73
+
+
+   559.90   560.95   563.82   566.59   577.21   580.20   594.69   610.36   615.46
+
+
+   626.25   629.83   630.22   641.77   664.41   673.00   675.39   676.44   696.47
+
+
+   710.14   710.32   715.19   715.32   724.44   726.40   732.44   733.32   734.00
+
+
+   742.80   748.17   748.44   749.36
+
+
+                       Number of comparisons performed:    13320
+
+
+
+                       Number of swaps performed:           3882
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  4
+
+                  Array sorted in ascending order using insertion sort:
+
+
+     3.71     4.02    11.36    12.08    18.23    35.08    36.11    46.28    55.01
+
+
+    55.32    57.42    69.96    75.29    75.43    75.94    85.65    85.68    86.86
+
+
+    87.03    97.44    99.87   103.15   110.88   113.04   155.16   156.28   161.97
+
+
+   163.46   185.15   192.60   196.18   227.86   238.85   242.24   247.51   254.49
+
+
+   256.68   260.31   275.54   281.10   281.69   290.07   298.39   300.97   301.84
+
+
+   315.22   316.13   332.54   334.11   342.66   360.29   360.48   373.20   377.76
+
+
+   389.98   411.95   413.15   414.68   415.50   418.95   425.12   425.25   436.46
+
+
+   440.55   447.61   448.27   448.80   454.27   459.24   460.78   465.66   484.81
+
+
+   488.14   493.44   493.67   494.29   496.45   498.71   502.24   504.74   505.90
+
+
+   508.87   519.45   529.63   539.29   546.64   548.35   550.14   550.52   559.73
+
+
+   559.90   560.95   563.82   566.59   577.21   580.20   594.69   610.36   615.46
+
+
+   626.25   629.83   630.22   641.77   664.41   673.00   675.39   676.44   696.47
+
+
+   710.14   710.32   715.19   715.32   724.44   726.40   732.44   733.32   734.00
+
+
+   742.80   748.17   748.44   749.36
+
+
+                       Number of comparisons performed:      120
+
+
+
+                       Number of swaps performed:           4002
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  5
+
+                   NAMES BEFORE SORTING
+
+
+                      First Name      Last Name        Password 
+
+                      ----------      ----------      ----------
+
+                      Anna            Leonowens       SIAMS4ME  
+
+                      Boris           Badenov         KILLMOOS  
+
+                      Bullwinkle      ROCKYPAL        Ben       
+
+                      Bruce           Wayne           BATYCOON  
+
+                      Barry           Reed            THEREIGO  
+
+                      Buffy           Summers         VAMPSRME  
+
+                      Casper          Ghost           FRIENDLY  
+
+                      Charles         Xavier          BALDIE    
+
+                      Clark           Kent            SUPERME   
+
+                      Draco           Malfoy          BULLYBOY  
+
+                      Diana           Prince          AMAZON    
+
+                      Don             Blake           ODINSSON  
+
+                      Daisy           Duck            FEMINIST  
+
+                      Dick            Grayson         SIDEKICK  
+
+                      Dawn            Summers         GREENKID  
+
+                      Donald          Duck            MICKSPAL  
+
+                      Edward          Nygma           IAMSMART  
+
+                      Harold          Hill            MUSICMAN  
+
+                      Hermione        Granger         STUDIOUS  
+
+                      Hal             Jordan          GREENMAN  
+
+                      Henry           Higgins         POLYLING  
+
+                      Harry           Potter          DESTINED  
+
+                      Jimmy           Olsen           JUSTAKID  
+
+                      Jean            Gray            ESPGIRL   
+
+                      Johnny          Storm           FIREMAN   
+
+                      Lamont          Cranston        SHADOWY   
+
+                      Lex             Luthor          IWANTALL  
+
+                      Lois            Lane            MYSUPER   
+
+                      Lana            Lang            REDHEAD   
+
+                      Mary            Watson          LOVEPETE  
+
+                      Mighty          Mouse           HEREIAM   
+
+                      Mickey          Mouse           DONSPAL   
+
+                      Matt            Murdock         BLINDMAN  
+
+                      Nellie          Forbush         WASHHAIR  
+
+                      Norman          Osborne         GGOBLIN   
+
+                      Nick            Fury            OLDGUARD  
+
+                      Perry           White           IAMBOSS   
+
+                      Peter           Parker          ARACHNID  
+
+                      Percy           Weasley         BESTBOY   
+
+                      Reed            Richards        STRETCHY  
+
+                      Rocket          Squirrel        ICANFLY   
+
+                      Rupert          Giles           WATCHER   
+
+                      Ron             Weasley         FRECKLES  
+
+                      Steve           Rogers          CAPTAINA  
+
+                      Scott           Summers         FOUREYES  
+
+                      Sue             Storm           REEDSGAL  
+
+                      Scrooge         McDuck          IAMRICH   
+
+                      Stephen         Strange         AMULET    
+
+                      Tony            Stark           STEELGUY  
+
+                      Willow          Rosenberg       BIGWITCH  
+
+                      Xander          Harris          GOODGUY   
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  6
+
+                   Descending order by Last Name using Selection Sort:
+
+
+                      First Name      Last Name        Password 
+
+                      ----------      ----------      ----------
+
+                      Charles         Xavier          BALDIE    
+
+                      Perry           White           IAMBOSS   
+
+                      Percy           Weasley         BESTBOY   
+
+                      Ron             Weasley         FRECKLES  
+
+                      Bruce           Wayne           BATYCOON  
+
+                      Mary            Watson          LOVEPETE  
+
+                      Dawn            Summers         GREENKID  
+
+                      Buffy           Summers         VAMPSRME  
+
+                      Scott           Summers         FOUREYES  
+
+                      Stephen         Strange         AMULET    
+
+                      Johnny          Storm           FIREMAN   
+
+                      Sue             Storm           REEDSGAL  
+
+                      Tony            Stark           STEELGUY  
+
+                      Rocket          Squirrel        ICANFLY   
+
+                      Willow          Rosenberg       BIGWITCH  
+
+                      Steve           Rogers          CAPTAINA  
+
+                      Reed            Richards        STRETCHY  
+
+                      Barry           Reed            THEREIGO  
+
+                      Bullwinkle      ROCKYPAL        Ben       
+
+                      Diana           Prince          AMAZON    
+
+                      Harry           Potter          DESTINED  
+
+                      Peter           Parker          ARACHNID  
+
+                      Norman          Osborne         GGOBLIN   
+
+                      Jimmy           Olsen           JUSTAKID  
+
+                      Edward          Nygma           IAMSMART  
+
+                      Matt            Murdock         BLINDMAN  
+
+                      Mighty          Mouse           HEREIAM   
+
+                      Mickey          Mouse           DONSPAL   
+
+                      Scrooge         McDuck          IAMRICH   
+
+                      Draco           Malfoy          BULLYBOY  
+
+                      Lex             Luthor          IWANTALL  
+
+                      Anna            Leonowens       SIAMS4ME  
+
+                      Lana            Lang            REDHEAD   
+
+                      Lois            Lane            MYSUPER   
+
+                      Clark           Kent            SUPERME   
+
+                      Hal             Jordan          GREENMAN  
+
+                      Harold          Hill            MUSICMAN  
+
+                      Henry           Higgins         POLYLING  
+
+                      Xander          Harris          GOODGUY   
+
+                      Dick            Grayson         SIDEKICK  
+
+                      Jean            Gray            ESPGIRL   
+
+                      Hermione        Granger         STUDIOUS  
+
+                      Rupert          Giles           WATCHER   
+
+                      Casper          Ghost           FRIENDLY  
+
+                      Nick            Fury            OLDGUARD  
+
+                      Nellie          Forbush         WASHHAIR  
+
+                      Daisy           Duck            FEMINIST  
+
+                      Donald          Duck            MICKSPAL  
+
+                      Lamont          Cranston        SHADOWY   
+
+                      Don             Blake           ODINSSON  
+
+                      Boris           Badenov         KILLMOOS  
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  7
+
+                   Descending Order by Password using Insertion Sort:
+
+
+                      First Name      Last Name        Password 
+
+                      ----------      ----------      ----------
+
+                      Rupert          Giles           WATCHER   
+
+                      Nellie          Forbush         WASHHAIR  
+
+                      Buffy           Summers         VAMPSRME  
+
+                      Barry           Reed            THEREIGO  
+
+                      Clark           Kent            SUPERME   
+
+                      Hermione        Granger         STUDIOUS  
+
+                      Reed            Richards        STRETCHY  
+
+                      Tony            Stark           STEELGUY  
+
+                      Dick            Grayson         SIDEKICK  
+
+                      Anna            Leonowens       SIAMS4ME  
+
+                      Lamont          Cranston        SHADOWY   
+
+                      Sue             Storm           REEDSGAL  
+
+                      Lana            Lang            REDHEAD   
+
+                      Henry           Higgins         POLYLING  
+
+                      Nick            Fury            OLDGUARD  
+
+                      Don             Blake           ODINSSON  
+
+                      Lois            Lane            MYSUPER   
+
+                      Harold          Hill            MUSICMAN  
+
+                      Donald          Duck            MICKSPAL  
+
+                      Mary            Watson          LOVEPETE  
+
+                      Boris           Badenov         KILLMOOS  
+
+                      Jimmy           Olsen           JUSTAKID  
+
+                      Lex             Luthor          IWANTALL  
+
+                      Rocket          Squirrel        ICANFLY   
+
+                      Edward          Nygma           IAMSMART  
+
+                      Scrooge         McDuck          IAMRICH   
+
+                      Perry           White           IAMBOSS   
+
+                      Mighty          Mouse           HEREIAM   
+
+                      Hal             Jordan          GREENMAN  
+
+                      Dawn            Summers         GREENKID  
+
+                      Xander          Harris          GOODGUY   
+
+                      Norman          Osborne         GGOBLIN   
+
+                      Casper          Ghost           FRIENDLY  
+
+                      Ron             Weasley         FRECKLES  
+
+                      Scott           Summers         FOUREYES  
+
+                      Johnny          Storm           FIREMAN   
+
+                      Daisy           Duck            FEMINIST  
+
+                      Jean            Gray            ESPGIRL   
+
+                      Mickey          Mouse           DONSPAL   
+
+                      Harry           Potter          DESTINED  
+
+                      Steve           Rogers          CAPTAINA  
+
+                      Bullwinkle      ROCKYPAL        Ben       
+
+                      Draco           Malfoy          BULLYBOY  
+
+                      Matt            Murdock         BLINDMAN  
+
+                      Willow          Rosenberg       BIGWITCH  
+
+                      Percy           Weasley         BESTBOY   
+
+                      Bruce           Wayne           BATYCOON  
+
+                      Charles         Xavier          BALDIE    
+
+                      Peter           Parker          ARACHNID  
+
+                      Stephen         Strange         AMULET    
+
+                      Diana           Prince          AMAZON    
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  8
+
+             EXTRA CREDIT - Array of 245.0, 243.0, 241.0, 239.0, 237.0, ..., 5.0.
+
+
+   245.00   243.00   241.00   239.00   237.00   235.00   233.00   231.00   229.00
+
+
+   227.00   225.00   223.00   221.00   219.00   217.00   215.00   213.00   211.00
+
+
+   209.00   207.00   205.00   203.00   201.00   199.00   197.00   195.00   193.00
+
+
+   191.00   189.00   187.00   185.00   183.00   181.00   179.00   177.00   175.00
+
+
+   173.00   171.00   169.00   167.00   165.00   163.00   161.00   159.00   157.00
+
+
+   155.00   153.00   151.00   149.00   147.00   145.00   143.00   141.00   139.00
+
+
+   137.00   135.00   133.00   131.00   129.00   127.00   125.00   123.00   121.00
+
+
+   119.00   117.00   115.00   113.00   111.00   109.00   107.00   105.00   103.00
+
+
+   101.00    99.00    97.00    95.00    93.00    91.00    89.00    87.00    85.00
+
+
+    83.00    81.00    79.00    77.00    75.00    73.00    71.00    69.00    67.00
+
+
+    65.00    63.00    61.00    59.00    57.00    55.00    53.00    51.00    49.00
+
+
+    47.00    45.00    43.00    41.00    39.00    37.00    35.00    33.00    31.00
+
+
+    29.00    27.00    25.00    23.00    21.00    19.00    17.00    15.00    13.00
+
+
+    11.00     9.00     7.00     5.00
+
+
+                       NO SWAPS OR COMPARISONS PERFORMED.
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page:  9
+
+             EXTRA CREDIT - Array sorted in ascending order using selection sort:
+
+
+     5.00     7.00     9.00    11.00    13.00    15.00    17.00    19.00    21.00
+
+
+    23.00    25.00    27.00    29.00    31.00    33.00    35.00    37.00    39.00
+
+
+    41.00    43.00    45.00    47.00    49.00    51.00    53.00    55.00    57.00
+
+
+    59.00    61.00    63.00    65.00    67.00    69.00    71.00    73.00    75.00
+
+
+    77.00    79.00    81.00    83.00    85.00    87.00    89.00    91.00    93.00
+
+
+    95.00    97.00    99.00   101.00   103.00   105.00   107.00   109.00   111.00
+
+
+   113.00   115.00   117.00   119.00   121.00   123.00   125.00   127.00   129.00
+
+
+   131.00   133.00   135.00   137.00   139.00   141.00   143.00   145.00   147.00
+
+
+   149.00   151.00   153.00   155.00   157.00   159.00   161.00   163.00   165.00
+
+
+   167.00   169.00   171.00   173.00   175.00   177.00   179.00   181.00   183.00
+
+
+   185.00   187.00   189.00   191.00   193.00   195.00   197.00   199.00   201.00
+
+
+   203.00   205.00   207.00   209.00   211.00   213.00   215.00   217.00   219.00
+
+
+   221.00   223.00   225.00   227.00   229.00   231.00   233.00   235.00   237.00
+
+
+   239.00   241.00   243.00   245.00
+
+
+                       Number of comparisons performed:     7381
+
+
+
+                       Number of swaps performed:             60
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 10
+
+             EXTRA CREDIT - Array sorted in ascending order using bubble sort:
+
+
+     5.00     7.00     9.00    11.00    13.00    15.00    17.00    19.00    21.00
+
+
+    23.00    25.00    27.00    29.00    31.00    33.00    35.00    37.00    39.00
+
+
+    41.00    43.00    45.00    47.00    49.00    51.00    53.00    55.00    57.00
+
+
+    59.00    61.00    63.00    65.00    67.00    69.00    71.00    73.00    75.00
+
+
+    77.00    79.00    81.00    83.00    85.00    87.00    89.00    91.00    93.00
+
+
+    95.00    97.00    99.00   101.00   103.00   105.00   107.00   109.00   111.00
+
+
+   113.00   115.00   117.00   119.00   121.00   123.00   125.00   127.00   129.00
+
+
+   131.00   133.00   135.00   137.00   139.00   141.00   143.00   145.00   147.00
+
+
+   149.00   151.00   153.00   155.00   157.00   159.00   161.00   163.00   165.00
+
+
+   167.00   169.00   171.00   173.00   175.00   177.00   179.00   181.00   183.00
+
+
+   185.00   187.00   189.00   191.00   193.00   195.00   197.00   199.00   201.00
+
+
+   203.00   205.00   207.00   209.00   211.00   213.00   215.00   217.00   219.00
+
+
+   221.00   223.00   225.00   227.00   229.00   231.00   233.00   235.00   237.00
+
+
+   239.00   241.00   243.00   245.00
+
+
+                       Number of comparisons performed:    14520
+
+
+
+                       Number of swaps performed:           7260
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 11
+
+             EXTRA CREDIT - Array sorted in ascending order using insertion sort:
+
+
+     5.00     7.00     9.00    11.00    13.00    15.00    17.00    19.00    21.00
+
+
+    23.00    25.00    27.00    29.00    31.00    33.00    35.00    37.00    39.00
+
+
+    41.00    43.00    45.00    47.00    49.00    51.00    53.00    55.00    57.00
+
+
+    59.00    61.00    63.00    65.00    67.00    69.00    71.00    73.00    75.00
+
+
+    77.00    79.00    81.00    83.00    85.00    87.00    89.00    91.00    93.00
+
+
+    95.00    97.00    99.00   101.00   103.00   105.00   107.00   109.00   111.00
+
+
+   113.00   115.00   117.00   119.00   121.00   123.00   125.00   127.00   129.00
+
+
+   131.00   133.00   135.00   137.00   139.00   141.00   143.00   145.00   147.00
+
+
+   149.00   151.00   153.00   155.00   157.00   159.00   161.00   163.00   165.00
+
+
+   167.00   169.00   171.00   173.00   175.00   177.00   179.00   181.00   183.00
+
+
+   185.00   187.00   189.00   191.00   193.00   195.00   197.00   199.00   201.00
+
+
+   203.00   205.00   207.00   209.00   211.00   213.00   215.00   217.00   219.00
+
+
+   221.00   223.00   225.00   227.00   229.00   231.00   233.00   235.00   237.00
+
+
+   239.00   241.00   243.00   245.00
+
+
+                       Number of comparisons performed:      120
+
+
+
+                       Number of swaps performed:           7380
+
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 12
+
+             EXTRA CREDIT - Array of: 5.5, 7.5, 9.5, 11.5, ..., 245.5
+
+
+     5.50     7.50     9.50    11.50    13.50    15.50    17.50    19.50    21.50
+
+
+    23.50    25.50    27.50    29.50    31.50    33.50    35.50    37.50    39.50
+
+
+    41.50    43.50    45.50    47.50    49.50    51.50    53.50    55.50    57.50
+
+
+    59.50    61.50    63.50    65.50    67.50    69.50    71.50    73.50    75.50
+
+
+    77.50    79.50    81.50    83.50    85.50    87.50    89.50    91.50    93.50
+
+
+    95.50    97.50    99.50   101.50   103.50   105.50   107.50   109.50   111.50
+
+
+   113.50   115.50   117.50   119.50   121.50   123.50   125.50   127.50   129.50
+
+
+   131.50   133.50   135.50   137.50   139.50   141.50   143.50   145.50   147.50
+
+
+   149.50   151.50   153.50   155.50   157.50   159.50   161.50   163.50   165.50
+
+
+   167.50   169.50   171.50   173.50   175.50   177.50   179.50   181.50   183.50
+
+
+   185.50   187.50   189.50   191.50   193.50   195.50   197.50   199.50   201.50
+
+
+   203.50   205.50   207.50   209.50   211.50   213.50   215.50   217.50   219.50
+
+
+   221.50   223.50   225.50   227.50   229.50   231.50   233.50   235.50   237.50
+
+
+   239.50   241.50   243.50   245.50
+
+
+                       NO SWAPS OR COMPARISONS PERFORMED.
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 13
+
+             EXTRA CREDIT - Array sorted in ascending order using selection sort:
+
+
+     5.50     7.50     9.50    11.50    13.50    15.50    17.50    19.50    21.50
+
+
+    23.50    25.50    27.50    29.50    31.50    33.50    35.50    37.50    39.50
+
+
+    41.50    43.50    45.50    47.50    49.50    51.50    53.50    55.50    57.50
+
+
+    59.50    61.50    63.50    65.50    67.50    69.50    71.50    73.50    75.50
+
+
+    77.50    79.50    81.50    83.50    85.50    87.50    89.50    91.50    93.50
+
+
+    95.50    97.50    99.50   101.50   103.50   105.50   107.50   109.50   111.50
+
+
+   113.50   115.50   117.50   119.50   121.50   123.50   125.50   127.50   129.50
+
+
+   131.50   133.50   135.50   137.50   139.50   141.50   143.50   145.50   147.50
+
+
+   149.50   151.50   153.50   155.50   157.50   159.50   161.50   163.50   165.50
+
+
+   167.50   169.50   171.50   173.50   175.50   177.50   179.50   181.50   183.50
+
+
+   185.50   187.50   189.50   191.50   193.50   195.50   197.50   199.50   201.50
+
+
+   203.50   205.50   207.50   209.50   211.50   213.50   215.50   217.50   219.50
+
+
+   221.50   223.50   225.50   227.50   229.50   231.50   233.50   235.50   237.50
+
+
+   239.50   241.50   243.50   245.50
+
+
+                       NO SWAPS OR COMPARISONS PERFORMED.
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 14
+
+             EXTRA CREDIT - Array sorted in ascending order using bubble sort:
+
+
+     5.50     7.50     9.50    11.50    13.50    15.50    17.50    19.50    21.50
+
+
+    23.50    25.50    27.50    29.50    31.50    33.50    35.50    37.50    39.50
+
+
+    41.50    43.50    45.50    47.50    49.50    51.50    53.50    55.50    57.50
+
+
+    59.50    61.50    63.50    65.50    67.50    69.50    71.50    73.50    75.50
+
+
+    77.50    79.50    81.50    83.50    85.50    87.50    89.50    91.50    93.50
+
+
+    95.50    97.50    99.50   101.50   103.50   105.50   107.50   109.50   111.50
+
+
+   113.50   115.50   117.50   119.50   121.50   123.50   125.50   127.50   129.50
+
+
+   131.50   133.50   135.50   137.50   139.50   141.50   143.50   145.50   147.50
+
+
+   149.50   151.50   153.50   155.50   157.50   159.50   161.50   163.50   165.50
+
+
+   167.50   169.50   171.50   173.50   175.50   177.50   179.50   181.50   183.50
+
+
+   185.50   187.50   189.50   191.50   193.50   195.50   197.50   199.50   201.50
+
+
+   203.50   205.50   207.50   209.50   211.50   213.50   215.50   217.50   219.50
+
+
+   221.50   223.50   225.50   227.50   229.50   231.50   233.50   235.50   237.50
+
+
+   239.50   241.50   243.50   245.50
+
+
+                       NO SWAPS OR COMPARISONS PERFORMED.
+
+
+
+
+
+
+
+11/05/2010                   Sorting - By: Nicholas Nagrodski                  Page: 15
+
+             EXTRA CREDIT - Array sorted in ascending order using insertion sort:
+
+
+     5.50     7.50     9.50    11.50    13.50    15.50    17.50    19.50    21.50
+
+
+    23.50    25.50    27.50    29.50    31.50    33.50    35.50    37.50    39.50
+
+
+    41.50    43.50    45.50    47.50    49.50    51.50    53.50    55.50    57.50
+
+
+    59.50    61.50    63.50    65.50    67.50    69.50    71.50    73.50    75.50
+
+
+    77.50    79.50    81.50    83.50    85.50    87.50    89.50    91.50    93.50
+
+
+    95.50    97.50    99.50   101.50   103.50   105.50   107.50   109.50   111.50
+
+
+   113.50   115.50   117.50   119.50   121.50   123.50   125.50   127.50   129.50
+
+
+   131.50   133.50   135.50   137.50   139.50   141.50   143.50   145.50   147.50
+
+
+   149.50   151.50   153.50   155.50   157.50   159.50   161.50   163.50   165.50
+
+
+   167.50   169.50   171.50   173.50   175.50   177.50   179.50   181.50   183.50
+
+
+   185.50   187.50   189.50   191.50   193.50   195.50   197.50   199.50   201.50
+
+
+   203.50   205.50   207.50   209.50   211.50   213.50   215.50   217.50   219.50
+
+
+   221.50   223.50   225.50   227.50   229.50   231.50   233.50   235.50   237.50
+
+
+   239.50   241.50   243.50   245.50
+
+
+                       Number of comparisons performed:      120
+
+
+
+                       Number of swaps performed:            120
+
+
+
+

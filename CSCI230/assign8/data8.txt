@@ -1,0 +1,55 @@
+Anna      Leonowens SIAMS4ME
+Boris     Badenov   KILLMOOS
+BullwinkleMoose     ROCKYPAL
+Ben       Grimm     STRONGUY
+Bruce     Wayne     BATYCOON
+Barry     Reed      THEREIGO
+Buffy     Summers   VAMPSRME
+Casper    Ghost     FRIENDLY
+Charles   Xavier    BALDIE  
+Clark     Kent      SUPERME 
+Draco     Malfoy    BULLYBOY
+Diana     Prince    AMAZON  
+Don       Blake     ODINSSON
+Daisy     Duck      FEMINIST
+Dick      Grayson   SIDEKICK
+Dawn      Summers   GREENKID
+Donald    Duck      MICKSPAL
+Edward    Nygma     IAMSMART
+Harold    Hill      MUSICMAN
+Hermione  Granger   STUDIOUS
+Hal       Jordan    GREENMAN
+Henry     Higgins   POLYLING
+Harry     Potter    DESTINED
+Jimmy     Olsen     JUSTAKID
+Jean      Gray      ESPGIRL 
+Johnny    Storm     FIREMAN 
+Lamont    Cranston  SHADOWY 
+Lex       Luthor    IWANTALL
+Lois      Lane      MYSUPER 
+Lana      Lang      REDHEAD 
+Mary      Watson    LOVEPETE
+Mighty    Mouse     HEREIAM 
+Mickey    Mouse     DONSPAL 
+Matt      Murdock   BLINDMAN
+Nellie    Forbush   WASHHAIR
+Norman    Osborne   GGOBLIN 
+Nick      Fury      OLDGUARD
+Perry     White     IAMBOSS 
+Peter     Parker    ARACHNID
+Percy     Weasley   BESTBOY 
+Reed      Richards  STRETCHY
+Rocket    Squirrel  ICANFLY 
+Rupert    Giles     WATCHER 
+Ron       Weasley   FRECKLES
+Steve     Rogers    CAPTAINA
+Scott     Summers   FOUREYES
+Sue       Storm     REEDSGAL
+Scrooge   McDuck    IAMRICH 
+Stephen   Strange   AMULET  
+Tony      Stark     STEELGUY
+Willow    Rosenberg BIGWITCH
+Xander    Harris    GOODGUY 
+
+
+

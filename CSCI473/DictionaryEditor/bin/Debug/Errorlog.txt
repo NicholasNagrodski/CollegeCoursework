@@ -1,0 +1,237 @@
+FATAL ERROR DUMP
+TIME: 2/16/2011 1:05:32 PM
+Error Message: Attempted to divide by zero.
+Stack Trace:
+   at SpellChecker.SpellCheck.CheckSpelling(String str) in F:\SpellChecker\SpellCheck.cs:line 56
+   at DictionaryEditor.DictionaryForm.btn_SpellCheck_Click(Object sender, EventArgs e) in F:\DictionaryEditor\DictionaryForm.cs:line 100
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+Data:
+System.Collections.ListDictionaryInternal
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 2/16/2011 1:06:20 PM
+Error Message: Attempted to divide by zero.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at SpellChecker.SpellCheck.CheckSpelling(String str) in F:\SpellChecker\SpellCheck.cs:line 56
+   at DictionaryEditor.DictionaryForm.btn_SpellCheck_Click(Object sender, EventArgs e) in F:\DictionaryEditor\DictionaryForm.cs:line 100
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 2/16/2011 4:22:12 PM
+Error Message: Attempted to divide by zero.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at SpellChecker.SpellCheck.CheckSpelling(String str) in F:\SpellChecker\SpellCheck.cs:line 56
+   at DictionaryEditor.DictionaryForm.btn_SpellCheck_Click(Object sender, EventArgs e) in V:\CSCI-473-0001-2112-3129\Z140294\DictionaryEditor\DictionaryForm.cs:line 100
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 2/16/2011 4:39:47 PM
+Error Message: Attempted to divide by zero.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at SpellChecker.SpellCheck.CheckSpelling(String str) in F:\SpellChecker\SpellCheck.cs:line 56
+   at DictionaryEditor.DictionaryForm.btn_SpellCheck_Click(Object sender, EventArgs e) in V:\CSCI-473-0001-2112-3129\Z140294\DictionaryEditor\DictionaryForm.cs:line 100
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 6:10:52 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DictionaryForm.btn_AddDefinition_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DictionaryForm.cs:line 207
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 6:10:57 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DictionaryForm.btn_AddDefinition_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DictionaryForm.cs:line 207
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 6:14:38 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.IllustrationForm.btn_OK_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\IllustrationForm.cs:line 28
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 6:14:52 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.IllustrationForm.btn_OK_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\IllustrationForm.cs:line 28
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 9:22:03 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_AddIllustration_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 47
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 9:48:06 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_AddIllustration_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 48
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/27/2011 9:48:15 PM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_OK_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 74
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/28/2011 12:25:29 AM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_AddIllustration_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 55
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/28/2011 12:29:03 AM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_AddIllustration_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 54
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+
+FATAL ERROR DUMP
+TIME: 3/28/2011 12:31:53 AM
+Error Message: Object reference not set to an instance of an object.
+Data: System.Collections.ListDictionaryInternal
+Stack Trace:
+   at DictionaryEditor.DefinitionForm.btn_AddIllustration_Click(Object sender, EventArgs e) in C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DefinitionForm.cs:line 54
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+END ERROR MESSAGE
+

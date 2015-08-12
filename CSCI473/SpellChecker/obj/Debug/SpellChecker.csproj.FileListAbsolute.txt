@@ -1,0 +1,15 @@
+F:\SpellChecker\bin\Debug\SpellChecker.dll
+F:\SpellChecker\bin\Debug\SpellChecker.pdb
+F:\SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+F:\SpellChecker\obj\Debug\SpellChecker.dll
+F:\SpellChecker\obj\Debug\SpellChecker.pdb
+V:\CSCI-473-0001-2112-3129\Z140294\SpellChecker\bin\Debug\SpellChecker.dll
+V:\CSCI-473-0001-2112-3129\Z140294\SpellChecker\bin\Debug\SpellChecker.pdb
+V:\CSCI-473-0001-2112-3129\Z140294\SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+V:\CSCI-473-0001-2112-3129\Z140294\SpellChecker\obj\Debug\SpellChecker.dll
+V:\CSCI-473-0001-2112-3129\Z140294\SpellChecker\obj\Debug\SpellChecker.pdb
+C:\Users\Nicholas\Desktop\Nick\School\CSCI473\SpellChecker\bin\Debug\SpellChecker.dll
+C:\Users\Nicholas\Desktop\Nick\School\CSCI473\SpellChecker\bin\Debug\SpellChecker.pdb
+C:\Users\Nicholas\Desktop\Nick\School\CSCI473\SpellChecker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\Nick\School\CSCI473\SpellChecker\obj\Debug\SpellChecker.dll
+C:\Users\Nicholas\Desktop\Nick\School\CSCI473\SpellChecker\obj\Debug\SpellChecker.pdb

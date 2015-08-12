@@ -1,0 +1,219 @@
+1                  BMI INDEX REPORT     PAGE:      1
+
+
+
+
+           Name:              BENJAMIN TUTTLE
+           Height in inches:  73
+           Weight in pounds:  250
+           Body mass Index:   33.07
+           Status:            Overweight
+
+
+           Name:              MARY ANN BAKER 
+           Height in inches:  57
+           Weight in pounds:  103
+           Body mass Index:   22.35
+           Status:            Normalweight
+
+
+           Name:              ROGER SMITH    
+           Height in inches:  68
+           Weight in pounds:  132
+           Body mass Index:   20.13
+           Status:            Normalweight
+
+
+           Name:              SHARON SLIM    
+           Height in inches:  67
+           Weight in pounds:  113
+           Body mass Index:   17.75
+           Status:            Underweight
+
+
+           Name:              JOE TUBBS      
+           Height in inches:  71
+           Weight in pounds:  246
+           Body mass Index:   34.40
+           Status:            Overweight
+
+
+           Name:              KAREN ATCHESON 
+           Height in inches:  68
+           Weight in pounds:  140
+           Body mass Index:   21.35
+           Status:            Normalweight
+
+
+           Name:              BRUCE BERGNER  
+           Height in inches:  75
+           Weight in pounds:  222
+           Body mass Index:   27.82
+           Status:            Overweight
+
+
+           Name:              HENRY GOODING  
+           Height in inches:  64
+           Weight in pounds:  145
+           Body mass Index:   24.96
+           Status:            Normalweight
+
+
+           Name:              WALTER PATRICK 
+           Height in inches:  73
+           Weight in pounds:  198
+           Body mass Index:   26.19
+           Status:            Overweight
+
+
+           Name:              BRIAN TUBULAR  
+           Height in inches:  71
+           Weight in pounds:  167
+           Body mass Index:   23.36
+           Status:            Normalweight
+
+1                  BMI INDEX REPORT     PAGE:      2
+
+
+
+
+           Name:              WENDY DIRKSON  
+           Height in inches:  62
+           Weight in pounds:  119
+           Body mass Index:   21.82
+           Status:            Normalweight
+
+
+           Name:              COURTNEY GNOME 
+           Height in inches:  66
+           Weight in pounds:  107
+           Body mass Index:   17.32
+           Status:            Underweight
+
+
+           Name:              ROBERT DOUGLAS 
+           Height in inches:  70
+           Weight in pounds:  182
+           Body mass Index:   26.19
+           Status:            Overweight
+
+
+           Name:              ISABEL WINTERS 
+           Height in inches:  59
+           Weight in pounds:  135
+           Body mass Index:   27.34
+           Status:            Overweight
+
+
+           Name:              STEVE MARKSON  
+           Height in inches:  84
+           Weight in pounds:  220
+           Body mass Index:   21.98
+           Status:            Normalweight
+
+
+           Name:              CAROLYN ROGERS 
+           Height in inches:  76
+           Weight in pounds:  220
+           Body mass Index:   26.85
+           Status:            Overweight
+
+
+           Name:              PETER CLEMSON  
+           Height in inches:  67
+           Weight in pounds:  150
+           Body mass Index:   23.56
+           Status:            Normalweight
+
+
+           Name:              DIRK BENNETT   
+           Height in inches:  74
+           Weight in pounds:  211
+           Body mass Index:   27.16
+           Status:            Overweight
+
+
+           Name:              PENNY CLAUSEN  
+           Height in inches:  66
+           Weight in pounds:  101
+           Body mass Index:   16.35
+           Status:            Underweight
+
+
+           Name:              JOE CLAYTER    
+           Height in inches:  69
+           Weight in pounds:  152
+           Body mass Index:   22.51
+           Status:            Normalweight
+
+1                  BMI INDEX REPORT     PAGE:      3
+
+
+
+
+           Name:              DONALD STEVENS 
+           Height in inches:  72
+           Weight in pounds:  175
+           Body mass Index:   23.80
+           Status:            Normalweight
+
+
+           Name:              MICHAEL JONES  
+           Height in inches:  70
+           Weight in pounds:  136
+           Body mass Index:   19.57
+           Status:            Normalweight
+
+
+           Name:              SUE SAMUELS    
+           Height in inches:  68
+           Weight in pounds:  175
+           Body mass Index:   26.68
+           Status:            Overweight
+
+
+           Name:              JOHN NEWTON    
+           Height in inches:  63
+           Weight in pounds:  144
+           Body mass Index:   25.58
+           Status:            Overweight
+
+
+           Name:              MARY NEWTON    
+           Height in inches:  64
+           Weight in pounds:  134
+           Body mass Index:   23.06
+           Status:            Normalweight
+
+
+           Name:              FRED WILMINGTON
+           Height in inches:  77
+           Weight in pounds:  234
+           Body mass Index:   27.82
+           Status:            Overweight
+
+
+           Name:              HUGH FAFFEN    
+           Height in inches:  72
+           Weight in pounds:  164
+           Body mass Index:   22.30
+           Status:            Normalweight
+
+
+           Name:              PIERRE HUGOLOV 
+           Height in inches:  69
+           Weight in pounds:  171
+           Body mass Index:   25.32
+           Status:            Overweight
+
+
+
+    SUMMARY INFORMATION: 
+
+      Number of individuals:            28
+      Number of overweight:             12
+      Number of underweight:             3
+      Average height (inches):       69.11
+      Average weight (pounds):      165.93
+      BMI from avg data:             24.49
+

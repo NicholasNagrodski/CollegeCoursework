@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DictionaryEditor">
+</Property><Property Name="Solution File" Value="C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\DictionaryEditor.sln">
+</Property><Property Name="Date" Value="Sunday, March 27, 2011">
+</Property><Property Name="Time" Value="13:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DictionaryEditor.sln" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DictionaryEditor.sln">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryEditor.csproj" Description="Project file successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DictionaryEditor.csproj">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DefinitionForm.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DefinitionForm.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DefinitionForm.Designer.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DefinitionForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryForm.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DictionaryForm.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryForm.Designer.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DictionaryForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Headword.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Headword.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="IllustrationForm.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\IllustrationForm.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="IllustrationForm.Designer.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\IllustrationForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Program.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="app.config" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\DataSources\SemanticSocialAssister.SemanticSocial.datasource" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\DataSources\SemanticSocialAssister.SemanticSocial.datasource">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DefinitionForm.resx" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DefinitionForm.resx">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryForm.resx" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\DictionaryForm.resx">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="IllustrationForm.resx" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\IllustrationForm.resx">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryEditor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DictionaryEditor" Source="DictionaryEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SpellChecker" Source="..\SpellChecker\SpellChecker.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="SpellChecker" Source="..\SpellChecker\SpellChecker.csproj" Description="Project file successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\SpellChecker\SpellChecker.csproj">
+</Event><Event ErrorLevel="0" Project="SpellChecker" Source="..\SpellChecker\SpellCheck.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\SpellChecker\SpellCheck.cs">
+</Event><Event ErrorLevel="0" Project="SpellChecker" Source="..\SpellChecker\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Nicholas\Desktop\Nick\School\CSCI473\DictionaryEditor\Backup\SpellChecker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SpellChecker" Source="..\SpellChecker\SpellChecker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SpellChecker" Source="..\SpellChecker\SpellChecker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DictionaryEditor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DictionaryEditor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DictionaryEditor" Source="DictionaryEditor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SpellChecker" Source="..\SpellChecker\SpellChecker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

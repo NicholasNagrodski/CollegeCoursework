@@ -1,0 +1,99 @@
+   *** Starting new set of data ***  
+ X1=    1.0000     Y1=    2.0000
+ X2=    2.0000     Y2=    4.2500
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    2.2500
+   -> The Y-Int (B) is:   -0.2500
+
+
+
+   *** Starting new set of data ***  
+ X1=    1.0000     Y1=    4.0000
+ X2=    2.0000     Y2=    4.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    0.0000
+   -> The Y-Int (B) is:    4.0000
+
+
+
+   *** Starting new set of data ***  
+ X1=    1.0000     Y1=    2.0000
+ X2=    2.0000     Y2=    4.2000
+ X3=    3.0000     Y3=    6.4000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    2.2000
+   -> The Y-Int (B) is:   -0.2000
+
+
+
+   *** Starting new set of data ***  
+ X1=    1.0000     Y1=    2.0000
+ X2=    2.0000     Y2=    4.2000
+ X3=    3.0000     Y3=    6.5000
+ X4=    4.0000     Y4=    8.8000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    2.2700
+   -> The Y-Int (B) is:   -0.3000
+
+
+
+   *** Starting new set of data ***  
+ X1=    2.0000     Y1=    2.0000
+ X2=    8.0000     Y2=    2.0000
+ X3=    8.0000     Y3=    8.0000
+ X4=    2.0000     Y4=    8.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    0.0000
+   -> The Y-Int (B) is:    5.0000
+
+
+
+   *** Starting new set of data ***  
+ X1=   -5.0000     Y1=   39.0000
+ X2=    5.0000     Y2=   13.0000
+ X3=   15.0000     Y3=  -13.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:   -2.6000
+   -> The Y-Int (B) is:   26.0000
+
+
+
+   *** Starting new set of data ***  
+ X1=   -4.0000     Y1=    1.0000
+ X2=    8.0000     Y2=    1.0000
+ X3=    0.0000     Y3=   15.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:   -0.2500
+   -> The Y-Int (B) is:    6.0000
+
+
+
+   *** Starting new set of data ***  
+ X1=   -2.0000     Y1=   10.0000
+ X2=    1.0000     Y2=    4.0000
+ X3=    4.0000     Y3=   -2.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:   -2.0000
+   -> The Y-Int (B) is:    6.0000
+
+
+
+   *** Starting new set of data ***  
+ X1=    6.0000     Y1=    0.0000
+ X2=    6.0000     Y2=   10.0000
+ X3=   -1.0000     Y3=    5.0000
+
+ The least squares regression for Y = M * X + B
+   -> The Slope (M) is:    0.0000
+   -> The Y-Int (B) is:    5.0000
+
+
+

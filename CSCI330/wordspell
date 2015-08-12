@@ -1,0 +1,74 @@
+#! /bin/csh
+#  Useage:  wordspell file_name
+#  
+#  Name:  Nicholas Nagrodski
+#  Class: CSCI-330
+#  Date: 4/08/2008 
+#  Northern Illinois University
+#
+#  First make sure there is only one argument, that the file exits, that 
+# it is a file (not a directory), also make sure it is readable.
+if ( $# != 1 ) then
+  echo Error: The only argument should be the text file to process\! 
+  echo Useage: wordspell file_name
+endif
+
+if ( ! -e $1 ) then
+  echo Error: $1 dosen't exist\!
+endif
+
+if ( ! -f $1 ) then
+  echo Error: $1 is not a file\! 
+endif
+
+if ( ! -r $1 ) then
+  echo Error: $1 is not readable\! 
+endif
+
+# Check for memory file.
+# Create one if there isn't.
+if ( ! -e $HOME/wrdspellmemory ) then
+  touch $HOME/wrdspellmemory
+endif
+
+# If there is a good file get the list of misspelled words.
+if ( $# == 1 && -e $1 && -f $1 && -r $1 ) then
+  set misspelledwords = `ispell -l < $1`
+  
+  # Initialize two lists.
+  set misspelledList = ""
+  set correctedList = ""
+
+  # The ask the usser for a new spelling for each word.
+  foreach word ( $misspelledwords )
+    
+    # First check the memeroy file for the word.
+    # Count the file for lines that contain $word.
+    if ( `grep -c $word $HOME/wrdspellmemory` == 0 ) then
+      echo $word is misspelled.
+      echo -n "Press enter to keep this spelling or type in a correction: "
+      set usrChoice = "$<"
+      if ( $usrChoice == "" ) then
+        # Add the word to thte memory file.
+        echo $word >> $HOME/wrdspellmemory
+        echo \"$word\" is spelled correctly and was added to memory.
+      else 
+        echo \"$word\" should be replaced by \"$usrChoice\"
+        # Then add the misspelled word to a list,
+        # and add the correcion to another list.
+        set misspelledList = ( $misspelledList $word )
+        set correctedList = ( $correctedList $usrChoice )        
+      endif 
+    endif
+  end
+
+  # End of processing.
+  # Print out summary.
+  @ count = 1
+  echo MISSPELLED: " " CORRECTED:
+  while ( $count <= $#misspelledList )
+    echo $misspelledList[$count] "        " $correctedList[$count]  
+    @ count++
+  end
+endif
+ 

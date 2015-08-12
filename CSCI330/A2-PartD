@@ -1,0 +1,89 @@
+D1:
+Script started on Mon 17 Mar 2008 07:49:06 PM CDT
+
+D2:
+]0;z140294@lx: ~z140294@lx:~$ ls -a > lsfile
+
+D3:
+]0;z140294@lx: ~z140294@lx:~$ cat lsfile
+.
+..
+330
+A2-PartA
+A2-PartB
+A2-PartC
+A2-PartD
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+bin
+csci241
+current-assign
+data
+.lesshst
+lsfile
+mbox
+.mozilla
+myalias
+submit-assign
+temp
+udir
+.viminfo
+x1
+x3
+.Xauthority
+
+D4:
+]0;z140294@lx: ~z140294@lx:~$ date > lsfile
+
+D5: Output redirection overwrote the origional contents.
+]0;z140294@lx: ~z140294@lx:~$ cat lsfile
+Mon Mar 17 19:49:46 CDT 2008
+
+D6:
+]0;z140294@lx: ~z140294@lx:~$ finger >> lsfile
+
+D7:
+]0;z140294@lx: ~z140294@lx:~$ cat lsfile
+Mon Mar 17 19:49:46 CDT 2008
+Login    Name                  Tty      Idle  Login Time   Office     Office Phone
+a132436  Raimund K Ege         pts/19   1:40  Mar 17 18:09 (64-135-203-112.foxvalley.net)
+z046466  Greg Michael Berres   pts/2    5:44  Mar 16 20:10 (adsl-76-203-18-146.dsl.emhril.sbcglobal.net)
+z046466  Greg Michael Berres   pts/3    1:32  Mar 16 20:10 (adsl-76-203-18-146.dsl.emhril.sbcglobal.net)
+z088317  Brian Atkinson        pts/15         Mar 17 19:33 (localhost:16.0)
+z118758  Jonathan M Lee        pts/11         Mar 17 19:27 (131.156.244.131)
+z118758  Jonathan M Lee        pts/25      1  Mar 17 19:37 (131.156.244.131)
+z121110  Spencer Khuon         pts/17      1  Mar 17 17:54 (c-76-16-51-97.hsd1.il.comcast.net)
+z121110  Spencer Khuon         pts/22      1  Mar 17 18:12 (c-76-16-51-97.hsd1.il.comcast.net)
+z121787  David Moore           pts/27     16  Mar 17 19:13 (c-24-14-109-102.hsd1.il.comcast.net)
+z126230  Telese Harton         pts/12      3  Mar 17 18:50 (131.156.242.78)
+z139048  Kevin Joseph Deichl   pts/5          Mar 17 17:02 (c-24-15-51-195.hsd1.il.comcast.net)
+z139048  Kevin Joseph Deichl   pts/9    2:16  Mar 17 15:42 (c-24-15-51-195.hsd1.il.comcast.net)
+z140294  Nicholas Nagrodski    pts/1          Mar 17 19:30 (131.156.249.118)
+z141848  John Daniel Yednock   pts/20         Mar 17 17:52 (131.156.244.80)
+z141848  John Daniel Yednock   pts/23   1:06  Mar 17 17:52 (131.156.244.80)
+z144100  Alexander Yang        pts/10   1:50  Mar 17 17:29 (pool-70-106-207-245.chi.dsl-w.verizon.net)
+z146921  Andrew Ca Threadgill  pts/0          Mar 17 18:34 (12-202-62-169.client.mchsi.com)
+z147439  Alexander Sward       pts/4      14  Mar 17 19:05 (131.156.248.95)
+z151537  Dennis Lee Anderson   pts/7       2  Mar 17 16:50 (pm-051-10.its.niu.edu)
+z154642  Robert M Giese        pts/13         Mar 17 16:55 (pm-051-09.its.niu.edu)
+z157020  Xinnan Min            pts/8      13  Mar 17 19:15 (c-71-57-102-150.hsd1.il.comcast.net)
+z162751  Deepthi Chelupati     pts/26     29  Mar 17 19:11 (131.156.102.36)
+z166357  David Peter Busse     pts/6          Mar 17 18:34 (c-71-201-169-26.hsd1.il.comcast.net)
+z167713  John Dicosola         pts/29         Mar 17 19:18 (fo-393-10.its.niu.edu)
+z169813  Ashwinkumar Mantri    pts/16         Mar 17 18:24 (63.216.51.98)
+ 
+D8:
+^[]0;z140294@lx:~$ ps | wc -l
+4
+
+D9:
+]0;z140294@lx: ~z140294@lx:~$ ps -ef | wc -l
+208
+
+D10:
+]0;z140294@lx: ~z140294@lx:~$ exit
+exit
+
+Script done on Mon 17 Mar 2008 07:51:30 PM CDT

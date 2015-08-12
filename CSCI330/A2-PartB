@@ -1,0 +1,86 @@
+B1:
+Script started on Mon 17 Mar 2008 07:17:35 PM CDT
+
+B2:
+]0;z140294@lx: ~z140294@lx:~$ groups
+student
+
+B3:
+]0;z140294@lx: ~z140294@lx:~$ umask
+0022
+
+This means....
+]0;z140294@lx: ~z140294@lx:~$ umask -S
+u=rwx,g=rx,o=rx
+
+B4:
+]0;z140294@lx: ~z140294@lx:~$ mkdir current-assign data submit-assign
+
+B5:
+]0;z140294@lx: ~z140294@lx:~$ ls -l
+[00mtotal 124
+drwxr--r--  4 z140294 student  4096 2008-02-04 20:31 [01;34m330[00m
+-rw-r--r--  1 z140294 student  3279 2008-03-17 19:12 [00mA2-PartA[00m
+-rw-r--r--  1 z140294 student     0 2008-03-17 19:17 [00mA2-PartB[00m
+drwxr-xr-x  2 z140294 student  4096 2007-09-06 19:34 [01;34mbin[00m
+drwx------ 12 z140294 student  4096 2007-12-01 17:32 [01;34mcsci241[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34mcurrent-assign[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34mdata[00m
+-rw-------  1 z140294 student 83680 2007-12-10 02:28 [00mmbox[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34msubmit-assign[00m
+drwxr-xr-x  2 z140294 student  4096 2008-02-04 20:30 [01;34mtemp[00m
+drw-rw-rw-  2 z140294 student  4096 2008-03-17 18:50 [34;42mudir[00m
+
+B6:
+[m]0;z140294@lx: ~z140294@lx:~$ chmod 740 data
+
+B7:
+]0;z140294@lx: ~z140294@lx:~$ ls -l
+[00mtotal 124
+drwxr--r--  4 z140294 student  4096 2008-02-04 20:31 [01;34m330[00m
+-rw-r--r--  1 z140294 student  3279 2008-03-17 19:12 [00mA2-PartA[00m
+-rw-r--r--  1 z140294 student     0 2008-03-17 19:17 [00mA2-PartB[00m
+drwxr-xr-x  2 z140294 student  4096 2007-09-06 19:34 [01;34mbin[00m
+drwx------ 12 z140294 student  4096 2007-12-01 17:32 [01;34mcsci241[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34mcurrent-assign[00m
+drwxr-----  2 z140294 student  4096 2008-03-17 19:19 [01;34mdata[00m
+-rw-------  1 z140294 student 83680 2007-12-10 02:28 [00mmbox[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34msubmit-assign[00m
+drwxr-xr-x  2 z140294 student  4096 2008-02-04 20:30 [01;34mtemp[00m
+drw-rw-rw-  2 z140294 student  4096 2008-03-17 18:50 [34;42mudir[00m
+
+B8:
+[m]0;z140294@lx: ~z140294@lx:~$ chmod o+x data
+
+B9:
+]0;z140294@lx: ~z140294@lx:~$ ls -l
+[00mtotal 124
+drwxr--r--  4 z140294 student  4096 2008-02-04 20:31 [01;34m330[00m
+-rw-r--r--  1 z140294 student  3279 2008-03-17 19:12 [00mA2-PartA[00m
+-rw-r--r--  1 z140294 student     0 2008-03-17 19:17 [00mA2-PartB[00m
+drwxr-xr-x  2 z140294 student  4096 2007-09-06 19:34 [01;34mbin[00m
+drwx------ 12 z140294 student  4096 2007-12-01 17:32 [01;34mcsci241[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34mcurrent-assign[00m
+drwxr----x  2 z140294 student  4096 2008-03-17 19:19 [01;34mdata[00m
+-rw-------  1 z140294 student 83680 2007-12-10 02:28 [00mmbox[00m
+drwxr-xr-x  2 z140294 student  4096 2008-03-17 19:19 [01;34msubmit-assign[00m
+drwxr-xr-x  2 z140294 student  4096 2008-02-04 20:30 [01;34mtemp[00m
+drw-rw-rw-  2 z140294 student  4096 2008-03-17 18:50 [34;42mudir[00m
+
+B10:
+[m]0;z140294@lx: ~z140294@lx:~$ umask 066
+This means...
+]0;z140294@lx: ~z140294@lx:~$ umask -S
+u=rwx,g=x,o=x
+
+B11:
+u=rwx,g=x,o=x
+
+B12: 
+u=rwx,g=x,o=x
+
+B18:
+]0;z140294@lx: ~z140294@lx:~$ exit
+exit
+
+Script done on Mon 17 Mar 2008 07:23:36 PM CDT

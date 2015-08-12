@@ -1,0 +1,220 @@
+/*******************************************************************************
+* Programmer: Nicholas Nagrodski
+* Z-ID:       Z140294
+* Course:     CSCI340
+* Section:    2
+* Assignment: 6
+* Date Due:   11/11/2008
+*
+* Purpose:  This is a driver file for a heap implementation.  The heap is also
+*          implemented in this file as a vector.
+*******************************************************************************/
+
+#include "/home/turing/onyuksel/courses/340/common/340.h"
+#include "/home/turing/onyuksel/courses/340/progs/08f/p6/prog6.h"
+
+int main()
+{
+    vector<int>    v1;   // heap of integers
+    vector<float>  v2;   // heap of floating-pt nums
+    vector<string> v3;   // heap of strings
+
+    // print header message
+    cout << "\t\t\t*** CSCI 340: Program 6 - Output ***\n\n";
+
+    // sort and print first list
+
+    cout << "first list - ascending order:\n\n";
+    get_list(v1, D1, less<int>());
+    print_list(v1, INT_SZ, INT_LN, less<int>());
+
+    cout << "first list - descending order:\n\n";
+    get_list(v1, D1, greater<int>());
+    print_list(v1, INT_SZ, INT_LN, greater<int>());
+
+    // sort and print second list
+
+    cout << "second list - ascending order:\n\n";
+    get_list(v2, D2, less<float>());
+    print_list(v2, FLT_SZ, FLT_LN, less<float>());
+
+    cout << "second list - descending order:\n\n";
+    get_list(v2, D2, greater<float>());
+    print_list(v2, FLT_SZ, FLT_LN, greater<float>());
+
+    // sort and print third list
+
+    cout << "third list - ascending order:\n\n";
+    get_list(v3, D3, less<string>());
+    print_list(v3, STR_SZ, STR_LN, less<string>());
+
+    cout << "third list - descending order:\n\n";
+    get_list(v3, D3, greater<string>());
+    print_list(v3, STR_SZ, STR_LN, greater<string>());
+
+    // print termination message
+    cout << "\t\t\t*** end of program execution ***\n\n";
+    return 0;
+}
+
+
+// Function  : insert
+// Use       : Inserts an item into a heap using a top-down approach.
+// Arguments : 1) The heap to have the item inserted into.
+//           : 2) The value of the item to insert.
+//           : 3) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void insert(vector<T>& heap, const T& item, U predicate)
+{
+  heap.push_back(item);  // Place item at the first open node in the heap.
+  upheap(heap, heap.size()-1, predicate);  // Fix the heap order.
+}
+
+
+
+// Function  : remove
+// Use       : Removes the element with the highest priority.
+// Arguments : 1) The heap to operate on.
+//           : 2) A STL predicate, less or greater.
+// Returns   : The value of the item being removed.
+template<class T,class U>
+T remove(vector<T>& heap, U predicate)
+{
+  T temp = heap[0];  // Get the highest priority value.
+
+  heap[0] = heap.back();  // Swap the last value with the root value.
+  heap.pop_back();  // Remove the last node.
+
+  downheap(heap, 0, predicate); // Now fix the heap order property.
+
+  return temp;  // Return the value.
+}
+
+
+// Function  : upheap
+// Use       : Fixes heap order property by moving a value up in a heap.
+// Arguments : 1) The heap to operate on.
+//           : 2) The index of the item to begin on.
+//           : 3) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void upheap(vector<T>& heap, int index, U predicate)
+{
+  T item = heap[index];  // Get the value of the inserted item.
+
+  //  While there is a valid index in the heap and while the priority of
+  // item we are inserting is greater than the priority of the parent of
+  // the current node.
+  while( index > 0 && predicate(item, heap[index/2]) )
+  {
+    // Move the node down to make room for the new node.
+    heap[index] = heap[index/2];
+    index = index / 2;  // Move to the parent of this node.
+  }
+
+  heap[index] = item; // Insert the item where it belongs.
+}
+
+
+// Function  : downheap
+// Use       : Fixes heap order property by moving a value down in a heap.
+// Arguments : 1) The heap to operate on.
+//           : 2) The index of the item to begin on.
+//           : 3) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void upheap(vector<T>& heap, int index, U predicate)
+{
+  T item = heap[index];  // Get the value of the inserted item.
+
+  //  While there is a valid index in the heap and while the priority of
+  // item we are inserting is greater than the priority of the parent of
+  // the current node.
+  while( index > 0 && predicate(item, heap[index/2]) )
+  {
+    // Move the node down to make room for the new node.
+    heap[index] = heap[index/2];
+    index = index / 2;  // Move to the parent of this node.
+  }
+
+  heap[index] = item; // Insert the item where it belongs.
+}
+
+
+// Function  : downheap
+// Use       : Fixes heap order property by moving a value down in a heap.
+// Arguments : 1) The heap to operate on.
+//           : 2) The index of the item to begin on.
+//           : 3) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void downheap(vector<T>& heap, int index, U predicate)
+{
+  uint LCIndex = 2 * index + 1;
+
+  while ( LCIndex < heap.size())
+  {
+    //  If the index is valid and if the right child is a higher
+    // priority than the left child, select the right to be moved up.
+    if ( LCIndex < heap.size()-1
+      && predicate( heap[LCIndex+1], heap[LCIndex]) )
+      LCIndex++;
+
+    //  If the value of the child has a higher priority than the parent
+    // swap the two values.
+    if ( predicate(heap[LCIndex],heap[index]) )
+    {
+      swap(heap[index], heap[LCIndex]);
+      index = LCIndex;  //  Set the index to the child.
+      LCIndex = 2*LCIndex;  // Set the index to the left child of the current node.
+    }
+    else
+      break;  // No more swapping required.
+  }
+}
+
+
+// Function  : get_list
+// Use       : Reads in a list of values from standard input and
+// Arguments : 1) The heap to insert values into.
+//           : 2) The File to open.
+//           : 3) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void get_list(vector<T>& heap, const char* file, U predicate)
+{
+  ifstream myfile(file);  // Open the input file.
+  T value;  // A temp varaible to read in values.
+
+  while( myfile >> value )
+  {
+    insert(heap, value, predicate);
+  }
+
+  myfile.close();  // Close the input file.
+}
+
+
+// Function  : print_list
+// Use       : Prints out the values of a heap in sorted order.
+// Arguments : 1) The heap to be printed.
+//           : 2) The amnount of width to provide a printed element on the output.
+//           : 3) The number of items to be printed on one line.
+//           : 4) A STL predicate, less or greater.
+// Returns   : Nothing.
+template<class T,class U>
+void print_list(vector<T>& heap, const int width, const int lineSize, U predicate)
+{
+  int printCount = 0;
+  while ( heap.size() != 0 )
+  {
+    cout << setw(width) << remove(heap, predicate) << " ";
+    printCount++;
+
+    if ( printCount % lineSize == 0 )
+      cout << "\n";  // Goto the next line if we need to.
+  }
+  cout << endl << endl;
+}
+
